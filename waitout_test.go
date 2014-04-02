@@ -3,7 +3,7 @@ package waitout_test
 import (
 	"testing"
 
-	"github.com/ParsePlatform/go.waitout"
+	"github.com/facebookgo/waitout"
 )
 
 func TestWait(t *testing.T) {
